@@ -1148,3 +1148,467 @@ git commit -m "Added btc, eclair conf"
 git push origin main
 clear
 git status
+touch backup.txt
+mempool-cli fetchBlockId -s 750000
+cleas
+clear
+sudo apt update
+sudo apt install i3
+clear
+ls
+cd conf-files/
+git add .
+git status
+git commit -m "Add reference"
+git push origin main
+git add .
+git commit -m "Add backup"
+git push origin main
+dpkg --configure -a
+sudo dpkg --configure -a
+clear
+mempool-cli fetchBlockId -s 750000
+mempool-cli fetchTxIds -s 758382
+bitcoind
+bitcoin-cli loadwallet user_01
+bitcoin-cli createwallet user01
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/alice
+bitcoin-cli stop
+clear
+bitcoind
+bitcoin-cli stop
+clear
+ls
+eclair-
+eclair-cli.kexe
+clear
+cd
+/home/claddy/Documents/eclair-cli/build/bin/native/releaseExecutable/eclair-cli.kexe 
+git clone git@github.com:claddyk/eclair-cli.git
+cd eclair-cli/
+./gradlew build
+ls
+cd build
+ls
+cd bin/
+ls
+cd native/
+ls
+cd releaseExecutable/
+ls
+./eclair-cli.kexe
+./gradlew build
+cd
+mempool-cli fetchBlockId -s 758294
+sudo gedit /etc/modprobe.d/framework-als-blacklist.conf
+sudo update-initramfs -u
+sudo reboot
+./gradlew build
+./gradlew
+./gradlew build
+cd
+clear
+eclair-cli getinfo
+ls
+clear
+eclair-cli.kexe getinfo
+./gradlew build
+./gradlew build --stacktrace
+clear
+./gradlew build --stacktrace
+git clone git@github.com:ACINQ/eclair-cli.git
+./gradlew build
+./gradlew run --args="say-hello -n Mohit"
+ls
+/home/claddy/Pictures/eclair-cli/build/bin/native/releaseExecutable/eclair-cli.kexe say-hello -n "Mohit"
+./gradlew build
+git clone git@github.com:claddyk/MempoolCLI.git
+./gradlew build
+mempool-cli fetchBlockId -s 730000
+./gradlew installDist
+mempool-cli fetchBlockId -s 730000
+clear
+./gradlew build
+./gradlew build --info
+git checkout -b getinfo
+./gradlew build
+./gradlew run --args="getinfo"
+./gradlew build --stacktrace
+clear
+./gradlew build
+clear
+./gradlew build --stacktrace
+./gradlew build --info
+eclair-cli getinfo
+clear
+bitcoind
+bitcoin-cli loadwallet user01
+clear
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/alice
+./gradlew build --stacktrace
+clear
+./gradlew build --info
+clear
+./gradlew build --scan
+./gradlew build
+clear
+./gradlew build
+git clone git@github.com:claddyk/eclair-cli.git
+./gradlew build
+/home/claddy/Documents/Projects/eclair-cli/build/bin/native/releaseExecutable/eclair-cli.kexe say-hello -n Mohit
+/home/claddy/Documents/Projects/eclair-cli/build/bin/native/releaseExecutable/eclair-cli.kexe say-hello -n 
+/home/claddy/Documents/Projects/eclair-cli/build/bin/native/releaseExecutable/eclair-cli.kexe say-hello -n 748
+clear
+cd
+clear
+/home/claddy/Documents/eclair-cli/build/bin/native/releaseExecutable/eclair-cli.kexe say-hello -n Mohit
+/home/claddy/Documents/eclair-cli/build/bin/native/releaseExecutable/eclair-cli.kexe getinfo
+git clone git@github.com:Swasth-Digital-Health-Foundation/integration-sdks.git
+dpkg -i obsidian_1.3.5_amd64.deb 
+sudo dpkg -i obsidian_1.3.5_amd64.deb 
+chmod +x Obsidian-1.3.5.AppImage 
+/home/claddy/Downloads/Obsidian-1.3.5.AppImage 
+sudo dpkg -i discord-0.0.28.deb
+./gradlew build
+eclair-cli.kexe say-hello -n Mohit
+eclair-cli say-hello -n Mohit
+eclair-cli.kexe say-hello -n Mohit
+eclair-cli getinfo
+cd Documents/
+ls
+cd eclair-cli/
+./gradlew build
+cd
+clear
+eclair-cli.kexe say-hello -n Mohit
+eclair-cli.kexe getinfo
+eclair-cli.kexe -p password getinfo
+eclair-cli.kexe getinfo
+eclair-cli getinfo
+eclair-cli.kexe -p password getinfo
+bitcoin-cli loadwallet user01
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/alice
+bitcoind
+nvm use 18
+git clone git@github.com:claddyk/c4gt-milestones.git
+sudo apt install vlc
+npm i
+npm run start
+git pull
+git checkout -b HCX_JavaScript
+git status
+git add .
+git commit -m "Add HCX-JavaScript SDK"
+git push origin HCX_JavaScript
+git add .
+git commit -m "Fix Contact Info Not Visible"
+git push origin HCX_JavaScript
+git clone git@github.com:claddyk/c4gt-milestones.git
+git status
+git reset --hard HEAD-1
+git reset --hard HEAD
+git status
+git status
+git clone git@github.com:claddyk/c4gt-milestones.git
+cd c4gt-milestones/
+npm i
+npm run start
+code .
+git pull
+git switch HCX_JavaScript
+git pull origin HCX_JavaScript 
+git reset HEAD --hard
+git add .
+git status
+git switch HCX_JavaScript
+git revert 3c20f7d1eb32420465e964a82fdfb66a9f7aca49
+git clone https://github.com/claddyk/c4gt-milestones/tree/HCX_JavaScript
+git log
+git status
+git add .
+git commit -m "Add Contact info"
+git push origin HCX_JavaScript 
+clear
+git branch
+git revert HEAD~1 -m 1
+cd
+clear
+cd Documents/
+git clone git@github.com:claddyk/c4gt-milestones.git
+git c4gt-milestones/
+cd c4gt-milestones/
+npm i
+npm run start
+code .
+git status
+git add .
+git commit -m "Add the HCX-Javascript SDK PRoject"
+git checkout -b "HCX-JS"
+git status
+git switch main
+git stauts
+git status
+git push
+git add .
+git commit -m "Updated Folder name"
+git push
+history
+cd
+clear
+./gradlew build
+eclair-cli.kexe say-hello -n Mohit
+./gradlew build
+eclair-cli.kexe say-hello -n Mohit
+./gradlew build
+eclair-cli.kexe say-hello -n Mohit
+eclair-cli.kexe getinfo
+./gradlew build
+eclair-cli.kexe getinfo
+./gradlew build
+eclair-cli.kexe getinfo
+./gradlew build
+eclair-cli.kexe getinfo
+eclair-cli getinfo
+clear
+eclair-cli.kexe -p password getinfo
+eclair-cli.kexe getinfo
+./gradlew build
+eclair-cli.kexe getinfo
+eclair-cli.kexe -p password getinfo
+eclair-cli.kexe getinfo -p password
+./gradlew build
+eclair-cli.kexe getinfo -p password
+eclair-cli.kexe -p password getinfo
+eclair-cli.kexe getinfo -p password
+./gradlew build
+eclair-cli.kexe getinfo -p password
+./gradlew build
+eclair-cli.kexe -p password getinfo
+eclair-cli.kexe getinfo -p password
+eclair-cli.kexe getinfo -p password -h http://localhost:8080
+eclair-cli.kexe getinfo -p password
+./gradlew build
+eclair-cli.kexe getinfo -p password
+eclair-cli.kexe getinfo -p password -l http://localhost:8080
+./gradlew build
+eclair-cli.kexe getinfo -p password -l http://localhost:8080
+./gradlew build
+eclair-cli.kexe getinfo -p password -l http://localhost:8080
+eclair-cli.kexe getinfo -p password
+./gradlew build
+eclair-cli.kexe getinfo -p password
+./gradlew build
+eclair-cli.kexe getinfo -p password
+eclair-cli.kexe getinfo -p passwor
+eclair-cli.kexe getinfo -p wrongpassword
+cd
+bitcoin-cli stop
+cd
+sudo snap remove firefox
+lear
+clear
+bitcoind
+bitcoin-cli loadwallet user01
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/alice
+cd
+clear
+bitcoind
+bitcoin-cli loadwallet user01
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/alice
+cd Documents/
+ls
+cd eclair-cli/
+./gradlew build
+cd Documents/q
+cd Documents/
+cd eclair-cli/
+./gradlew build
+eclair-cli.kexe connect -p password'
+
+:wq
+:wq
+cd
+bitcoind
+bitcoin-cli loadwallet user01
+eclair-node.sh Declair.datadir=/home/claddy/.eclair/alice
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/alice
+eclair-cli.kexe getinfo -p password
+eclair-cli.kexe connect -p password
+eclair-cli -p password connect --uri=03e319aa4ecc7a89fb8b3feb6efe9075864b91048bff5bef14efd55a69760ddf17@127.0.0.1:9735
+eclair-cli.kexe getinfo -p password
+eclair-cli.kexe getinfo -p password -l http://localhost:9001
+eclair-cli -p password connect --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9735
+eclair-cli -p password connect --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli -p password -l http://localhost:8080 connect --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli.kexe -p password -l http://localhost:8080 connect --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli.kexe getinfo -p password -l http://localhost:9001 connect --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9735
+eclair-cli.kexe getinfo -p password -l http://localhost:9001 connect --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli.kexe getinfo -p password -l http://localhost:8080 connect --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9735
+clear
+eclair-cli stop
+bitcoin-cli stop
+cd Documents/
+cd eclair-cli/
+./gradlew build
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/bob
+ps aux | grep eclair
+clear
+./gradlew build
+eclair-cli.kexe -p password getinfo
+eclair-cli.kexe getinfo -p password
+bitcoind
+bitcoin-cli getinfo
+bitcoin-cli loadwallet user01
+clear
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/alice
+tar xvzf ideaIU-2023.1.4.tar.gz
+./configure
+make
+cdc ideacd idea-IU-231.9225.16/
+cd idea-IU-231.9225.16/
+./configure
+make
+./configure
+cd bin
+ls
+./idea.sh
+cd
+clear
+sudo chown -R claddy /opt/idea/-IC-231.9011.32
+sudo chown -R claddy /opt/idea-IC-231.9011.34/
+git fetch
+git pull
+sudo chown -R claddy /etc/default/grub
+sudo update-grub
+git status
+git reset HEAD --hard
+git status
+clear
+git branch
+git switch getinfo
+sudo update-grub
+sudo add-apt-repository ppa:/apandada1/brightness-controller
+sudo add-apt-repository ppa:apandada1/brightness-controller
+sudo apt update
+sudo apt install brightness-controller
+./gradlew build
+./gradlew check
+git clone git@github.com:claddyk/JavaScript-T.git
+eclair-cli.kexe getinfo -p password
+eclair-cli getinfo
+code .
+bitcoind
+bitcoin-cli loadwallet user01
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/alice
+git add .
+git commit -m "Updated Readme.md"
+git push origin main
+git add .
+git commit -m "Add Js tag"
+git push
+git add .
+git commit -m "Added Js tag everywhere"
+git push
+git add .
+git commit -m "Updated Outgoing"
+git push
+git push origin main
+git fetch 
+git pull
+git config pull.rebase true
+git pull
+git push origin main
+eclair-cli.kexe getinfo -p password
+eclair-cli.kexe getinfo -p password --host http://localhost:9001
+eclair-cli connect -p password --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli.kexe connect -p password --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+cd Documents/eclair-cli/
+./gradlew build
+eclair-cli.kexe connect -p password --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli connect --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli.kexe connect -p password --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli.kexe connect -p password --uri=03b35ff9243d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+./gradlew build
+eclair-cli.kexe connect -p password --uri=03b35ff9243d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli connect -p password --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli connect --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+./gradlew build
+eclair-cli.kexe connect -p password --uri=03b35ff9243d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli.kexe connect -p password -uri=03b35ff9243d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli.kexe connect -p password --uri=03b35ff9243d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli.kexe connect -p password --uri 03b35ff9243d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclaeclair-node.sh -Declair.datadir=/home/claddy/.eclair/bob
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/alice
+clear
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/bob
+bitcoind
+bitcoin-cli loadwallet user01
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/alice
+./gradlew build
+eclair-cli.kexe connect -p password --uri=023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5@192.0.2.1:9735
+eclair-cli connect -p password --uri=023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5@192.0.2.1:9735
+eclair-cli connect --uri=023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5@192.0.2.1:9735
+eclair-cli connect --uri=023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5@127.0.0.1:9735
+eclair-cli connect --uri=023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5@127.0.0.1:9737
+eclair-cli disconnect --nodeId=023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5
+eclair-cli.kexe connect -p password --uri=023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5@127.0.0.1:9737
+eclair-cli.kexe connect -p password 023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5@127.0.0.1:9737
+./gradlew build
+eclair-cli.kexe connect -p password -n 023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5
+./gradlew build
+eclair-cli.kexe connect -p password --uri 023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5
+eclair-cli.kexe connect -p password --nodeId 023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5
+./gradlew build
+eclair-cli connect --uri=023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5@127.0.0.1:9737
+eclair-cli.kexe disconnect -p password --nodeId=023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5
+./gradlew build
+eclair-cli.kexe disconnect -p password --nodeId=023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5
+eclair-cli.kexe disconnect -p password 023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/carol
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/bob
+cd Documents/eclair-cli/
+clear
+eclair-cli -a localhost:9002 getinfo
+eclair-cli.kexe connect -p password --uri=023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5@9002:9737
+eclair-cli.kexe connect -p password --uri=023cb8d093f6475d8ddfb104b0591c18097045156d71eb1169d380b73a70a949b5@9002:9735
+bitcoin-cli loadwallet user01
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/alice
+bitcoind
+sudo add-apt-repository ppa:graphics-drivers/ppa
+sudo ubuntu-drivers autoinstall
+sudo update grub
+sudo reboot
+apt search nvidia-driver
+sudo apt update
+bitcoind
+eclair-cli.kexe -p password connect --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli.kexe connect -p password --uri=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a@127.0.0.1:9736
+eclair-cli.kexe connect -p password --nodeId=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a
+cd Documents/eclair-cli/
+./gradlew build
+eclair-cli.kexe connect -p password --nodeId=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a
+./gradlew build
+eclair-cli.kexe connect -p password --nodeId=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a
+./gradlew build
+eclair-cli.kexe connect -p password --nodeId=03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a
+eclair-cli.kexe connect -p password --nodeId 03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a
+./gradlew build
+eclair-cli.kexe connect -p password --nodeId 03b35ff9243c8d456b80a03bd54c3333d29f9538b0090b16d04d21a8c515074e1a
+bitcoin-cli loadwallet user01
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/alice
+eclair-cli -a localhost:9001 getinfo
+eclair-node.sh -Declair.datadir=/home/claddy/.eclair/bob
+git clone git@github.com:claddyk/integration-sdks.git
+code .
+./configure
+ls
+cd Postman/
+./configure
+sudo make
+cd
+clear
+flatpak install flathub com.getpostman.Postman
+sudo dpkg -i google-chrome-stable_current_amd64.deb 
+cd
+sudo aptr reinstall nvidia-driver-510
+sudo apt reinstall nvidia-driver-510
