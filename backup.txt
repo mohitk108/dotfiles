@@ -1,5 +1,0 @@
-bitcoin-23.2
-eclair-node
-neovim
-rustbook(hiro)
-
