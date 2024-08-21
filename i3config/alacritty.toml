@@ -1,0 +1,13 @@
+[font.bold]
+family = "Monaco"
+style = "Bold"
+
+[font.italic]
+family = "Monaco"
+style = "Italic"
+
+[font.normal]
+family = "Monaco"
+style = "Regular"
+
+
